@@ -1,3 +1,4 @@
+
 data <- read.csv("yerevan_map_1.csv")
 
 data
